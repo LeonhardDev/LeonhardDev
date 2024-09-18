@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @LeonhardDev
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C/Java/JS/php/HTML/CSS
+- 🌱 I’m currently learning C/Java/php/HTML/CSS/JS
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me linkedin - /leonardo-alves-dev
+- 📫 Reach me on LinkedIn - /leonardo-alves-dev
 - ⚡ Fun fact: Ultimate mastermind 24/7 gamer nerd
 
 <!---
