@@ -14,30 +14,29 @@
 
 **Aplicações e dados**
 
-![C++](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 **DevOps**
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 **Utilidade**
 
-[![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-333333?logo=Adobe%20Photoshop&logoColor=blue)](#)
-[![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-333333?logo=Adobe%20Premiere%20Pro&logoColor=dark-blue)](#)
-[![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-333333?logo=Adobe%20Lightroom&logoColor=)](#)
-[![Canva](https://img.shields.io/badge/Canva-333333?&logo=Canva&logoColor=w)](#)
-[![Udemy](https://img.shields.io/badge/Udemy-333333?logo=udemy&logoColor=)](#)
-
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+	![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
+ 
 **Ferramentas de desenvolvimento**
 
-[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-333333?logo=vsc&logoColor=0000FF)](#)
-[![Sublime Text](https://img.shields.io/badge/Sublime%20Text-333333?logo=sublime-text&logoColor=important)](#)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 
 <br/>
 
@@ -53,8 +52,8 @@
 
 ## Adicional
 
-[![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](#)
-
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
 <!---
 LeonhardDev/LeonhardDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
