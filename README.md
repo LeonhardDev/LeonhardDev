@@ -50,10 +50,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-leonardoalves.tech@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonardoalves.tech@gmail.com)](mailto:leonardoalves.tech@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/LeonhardDev?label=follow&style=social)](https://github.com/LeonhardDev)
 
-## Adicional
-
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
 <!---
 LeonhardDev/LeonhardDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
