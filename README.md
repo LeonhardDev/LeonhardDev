@@ -1,3 +1,5 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&background=FFFFFF00&vCenter=true&width=435&lines=Ol%C3%A1%2C+seja+bem+vindo+ao+meu+Github!+%E2%9C%8C%EF%B8%8F" alt="Typing SVG" /></a>
+
 ![](https://komarev.com/ghpvc/?username=leonharddev&color=006bed)
 
 ## Sobre mim
@@ -8,7 +10,7 @@
 
  ➤ Trabalhando como TI/Designer na Venoarte Comunicação Visual.
  
- ➤ Aprendendo mais sobre C, PHP, MySQL e base frontend (HTML, CSS, JS)
+ ➤ Aprendendo mais sobre C, PHP, MySQL e Frontend (HTML, CSS, JS)
 
 ## Minhas Skills
 
